@@ -1,2 +1,4 @@
 # Big-Mart-Sales-Data
-BigMart Sales Data Regression using Python
+
+**Medium link:**
+https://nitheshwar.medium.com/bigmart-sales-data-regression-using-python-57a5155767d7
